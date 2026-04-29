@@ -1,4 +1,4 @@
-# Image Compressor and Converter
+# Mehedi Hasan Shihab Image Converter and compressor
 
 A powerful, lightning-fast, and entirely client-side image compression and format conversion tool built with privacy and performance in mind.
 
